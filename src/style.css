@@ -1,4 +1,60 @@
+body {
+  background-color: rgb(169, 91, 133);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
 
+a {
+  color: rgb(234, 158, 200);
+}
 
+header {
+  padding: 25px;
+}
 
+h1 {
+  text-align: center;
+  color: rgb(108, 30, 69);
+}
 
+.box-and-button {
+  text-align: center;
+}
+
+.text-box {
+  width: 80%;
+  height: 35px;
+  text-align: center;
+  border-radius: 7px;
+  background-color: rgb(189, 148, 174);
+  margin-bottom: 30px;
+  border-color: darkviolet;
+  font-size: 20px;
+  line-height: 70px;
+}
+.button {
+  width: 75px;
+  height: 42px;
+  border-radius: 5px;
+  color: hotpink;
+  background-color: rgb(111, 23, 108);
+  border-color: none;
+  box-shadow: 10px;
+}
+
+.poem {
+  text-align: center;
+  margin: 40px;
+  font-size: 40px;
+  font-style: italic;
+  padding: 55px;
+  color: hotpink;
+  background-color: rgb(159, 83, 121);
+  border-radius: 10px;
+}
+
+footer {
+  text-align: center;
+  font-size: 20px;
+  padding: 50px;
+  color: rgb(108, 30, 69);
+}
